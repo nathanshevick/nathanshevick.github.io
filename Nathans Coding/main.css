@@ -1,0 +1,114 @@
+	 p{
+	 color: darkgreen;
+	 font-size: 20px;
+
+	}
+	html{
+		Background-color:pink;
+	}
+	h4{
+		background-color:#5aaf65;
+		color:#001a33;
+		width:65%;
+		border:10px solid black;
+		font-size: 25px;
+		border-radius:5px;
+	}
+	.yum{
+		color:660000;
+		font-size:20px;
+	}
+	.paragraph{
+		color:rgb(0,66,0);
+		font-size:1.25em;
+	}
+
+	#submit {
+		background-color:indigo;
+		color:white;
+		
+	}
+	#banner {
+		height:20px;
+		width:99%;
+		border:5px solid black;
+		background-color: #5aaf65;
+		text-align:center;
+		border-radius:12px;
+		color:#001a33;
+		margin-bottom: 5px;
+
+	}
+	.footer {
+		height:20px;
+		width:99%;
+		border:5px solid black;
+		background-color: #5aaf65;
+		text-align:center;
+		border-radius:12px;
+	}
+
+ 	.wrap-trivia {
+ 		height:290px;
+ 		width:450px;
+ 		border:5px ridge white;
+ 		padding: 10px;
+ 	}
+
+ 	.wrap-text {
+ 		color: #4d004d;
+ 	}
+
+ 	.navitem {
+ 		list-style-type: none;
+ 		display:inline;
+ 		margin-right:5px;
+ 		padding: 1px 3px;
+ 	}
+ 	#navmenu {
+ 		text-align:center;
+ 		color:white;
+ 		background-color:blue;
+ 	}
+ 	a:link{ 
+ 		color: #ff1a1a
+ 	}
+
+ a:visited{ 
+ 	color: maroon
+ }
+ a:hover{ 
+ 	color: #ff4d4d
+ }
+ a:active{
+ 	color: #4d0000
+ }
+
+ .homelink:hover
+ {
+ 	color: purple;
+ }
+
+
+
+ #rightside{
+ 	float:right;
+ 	width:36%;
+ }
+ #leftside{
+ 	width:64%;
+ }
+
+ .clearfloat {
+ 	clear:left;
+ }
+ .box {
+ 	height:350px;
+ 	width:40%;
+ 	border:5px solid #4d2600;
+ 	padding: 10px;
+ 	float:right;
+ }
+ .clear{
+ 	clear:right;
+ }
